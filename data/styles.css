@@ -13,6 +13,8 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 ._图片 {
 }
 .placeholder {
@@ -88,6 +90,9 @@
 }
 .html_button {
   text-align:center;
+}
+.tree_node {
+  text-align:left;
 }
 .table_cell {
 }
